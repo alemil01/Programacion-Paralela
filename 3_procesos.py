@@ -6,7 +6,7 @@ import time
 def f(c):
     for i in range(100):
         temp = c.value + 1
-        print (f"hola soy {current_process.pid}, vuelta: {i}, contador: {c.value}")
+        print (f"hola soy {current_process().pid}, vuelta: {i}, contador: {c.value}")
         time.sleep(0.1)
         c.value = temp
 
