@@ -1,5 +1,5 @@
 import time
-import ranodm
+import random
 
 from multiprocessing import Process
 from multiprocessing import current_process
