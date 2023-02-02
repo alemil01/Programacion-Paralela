@@ -2911,4 +2911,154 @@ hola soy 5485, vuelta: 95, contador: 95
 hola soy 5489, vuelta: 95, contador: 95
 hola soy 5488, vuelta: 95, contador: 95
 hola soy 5484, vuelta: 95, contador: 95
-hola soy 5486, vu
+hola soy 5486, vuelta: 96, contador: 96
+hola soy 5483, vuelta: 96, contador: 96
+hola soy 5490, vuelta: 96, contador: 96
+hola soy 5487, vuelta: 96, contador: 96
+hola soy 5489, vuelta: 96, contador: 96
+hola soy 5488, vuelta: 96, contador: 96
+hola soy 5484, vuelta: 96, contador: 96
+hola soy 5485, vuelta: 96, contador: 96
+hola soy 5486, vuelta: 97, contador: 97
+hola soy 5483, vuelta: 97, contador: 97
+hola soy 5484, vuelta: 97, contador: 97
+hola soy 5487, vuelta: 97, contador: 97
+hola soy 5488, vuelta: 97, contador: 97
+hola soy 5489, vuelta: 97, contador: 97
+hola soy 5490, vuelta: 97, contador: 97
+hola soy 5485, vuelta: 97, contador: 97
+hola soy 5486, vuelta: 98, contador: 98
+hola soy 5483, vuelta: 98, contador: 98
+hola soy 5487, vuelta: 98, contador: 98
+hola soy 5484, vuelta: 98, contador: 98
+hola soy 5490, vuelta: 98, contador: 98
+hola soy 5488, vuelta: 98, contador: 98
+hola soy 5489, vuelta: 98, contador: 98
+hola soy 5485, vuelta: 98, contador: 98
+hola soy 5486, vuelta: 99, contador: 99
+hola soy 5483, vuelta: 99, contador: 99
+hola soy 5484, vuelta: 99, contador: 99
+hola soy 5489, vuelta: 99, contador: 99
+hola soy 5487, vuelta: 99, contador: 99
+hola soy 5490, vuelta: 99, contador: 99
+hola soy 5488, vuelta: 99, contador: 99
+hola soy 5485, vuelta: 99, contador: 99
+[?2004h]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ cd ../
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ cd /home/alex/
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ cp multiprocessing.txt [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+[?2004l[?2004h]0;alex@alex-VirtualBox: /home[01;32malex@alex-VirtualBox[00m:[01;34m/home[00m$ cd [K[Kd /Pr[K[Kalex/Pro[K[K[K[K[K[K[K[K[Kalex/Programacion-Paralela/
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ /home/alex/multiprocessing.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K multiprocessing.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd --[K[K../..
+[?2004l[?2004h]0;alex@alex-VirtualBox: /home[01;32malex@alex-VirtualBox[00m:[01;34m/home[00m$ cd ../
+[?2004l[?2004h]0;alex@alex-VirtualBox: /[01;32malex@alex-VirtualBox[00m:[01;34m/[00m$ cp /homoe[K[Ke/alex/multiprocessing.txt /home/alex/Programacion-Paralela/multiproe[Kcessing.txt
+[?2004l[?2004h]0;alex@alex-VirtualBox: /[01;32malex@alex-VirtualBox[00m:[01;34m/[00m$ cd home/alex/Programacion-Paralela/
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ git log
+[?2004l[?1h=[33mcommit 50d50c3ec1f491f7026ed8be19ebc7b9c6fb1e89[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morig[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31m[m[33m[m[1;31min/HEAD[m[33m)[m[m
+Merge: b714835 753033e[m
+Author: joseialb <joseialb@ucm.es>[m
+Date:   Thu Feb 2 13:21:03 2023 +0100[m
+[m
+    Merge branch 'main' of github.com:alemil01/Programacion-Paralela[m
+[m
+[33mcommit b7148358702e72e9111d95fa8ba1b118a254e17b[m[m
+Author: joseialb <joseialb@ucm.es>[m
+Date:   Thu Feb 2 13:20:37 2023 +0100[m
+[m
+    corregido un parentesis que faltaba[m
+[m
+[33mcommit 753033e530efb3cb38e39aa4f3b111b226aeafc0[m[m
+Author: alemil01 <alemil01@ucm.es>[m
+Date:   Thu Feb 2 13:18:05 2023 +0100[m
+[m
+    corregido[m
+[m
+[33mcommit 22850906f2922c8bb6c823faaeaabb5e994fbec8[m[m
+Author: alemil01 <alemil01@ucm.es>[m
+Date:   Thu Feb 2 13:16:41 2023 +0100[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    corregido[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit c0c02c9f2e9a838ff8fe936c1015403e1edc0a7a[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: alemil01 <alemil01@ucm.es>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Feb 2 13:12:18 2023 +0100[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    anado el ultimo script[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 067e65111bd636bf565d6d067aa42bdab8a018c9[m[m
+:[K[K [KESCESC[KOO[KBB[KMerge: 64da4b0 04c2e7d[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: joseialb <joseialb@ucm.es>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Feb 2 13:08:54 2023 +0100[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Merge branch 'main' of github.com:alemil01/Programacion-Paralela[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 64da4b0429ecad28eef1be95878a780148deb756[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: joseialb <joseialb@ucm.es>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Feb 2 13:08:32 2023 +0100[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    insertar 4 script[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 04c2e7d8d8a8c6301a73530968c20089efd6a062[m[m
+:[K[K [KESCESC[KOO[KBB[KMerge: 4b85170 0be8cbe[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: alemil01 <alemil01@ucm.es>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Feb 2 12:59:59 2023 +0100[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Merge branch 'main' of github.com:alemil01/Programacion-Paralela[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 4b851700fe38a2f9bb7cec429884c7392ee077b0[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: alemil01 <alemil01@ucm.es>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Feb 2 12:58:43 2023 +0100[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    anado tercer script[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 0be8cbe8cef6358acf4149a173402a320f2ec5d6[m[m
+:[K[K [KESCESC[KOO[KBB[KMerge: 00b9e21 6e64210[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: joseialb <joseialb@ucm.es>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Feb 2 12:53:04 2023 +0100[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Merge branch 'main' of github.com:alemil01/Programacion-Paralela[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 00b9e21a61ce82bd22af46be67c877406232f549[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: joseialb <joseialb@ucm.es>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Feb 2 12:50:54 2023 +0100[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    anadido el segundo script[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 6e642107a65b19e1d68c66778eab5f45d123badc[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: alemil01 <alemil01@ucm.es>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Feb 2 12:48:34 2023 +0100[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Primer script[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit f9c9950fe52007010dfffb01417615c01b69c5ea[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: alemil01 <124044927+alemil01@users.noreply.github.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Feb 2 12:17:36 2023 +0100[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Initial commit[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>
+[2]+  Detenido                git log
+[?2004h]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ git pull
+[?2004lYa está actualizado.
+[?2004h]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ git add multiprocessing.txt 
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ git commmit -script de AL[Klejandor[K[Kro M illan
+[?2004lgit: 'commmit' no es un comando de git. Mira 'git --help'.
+
+El comando más similar es
+	commit
+[?2004h]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ git commmit -script de Alejandro Millan[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cit -script de Alejandro Mil[C[1Pan[A]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ [C[C[C[C[C[C
+
+[?2004lfatal: no se pudo revisar el commit ript
+[?2004h]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ git commit -script de Alejandro Millan[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmscript de Alejandro Mi[Clan[A]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C script de Alejandro Millan[A]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C"script de Alejandro Millan[A]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C"
+[?2004l[main 82d570a] script de Alejandro Millan
+ 1 file changed, 2914 insertions(+)
+ create mode 100644 multiprocessing.txt
+[?2004h]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-VirtualBox[00m:[01;34m~/Programacion-Paralela[00m$ git push
+[?2004lEnumerando objetos: 4, listo.
+Contando objetos:  25% (1/4)Contando objetos:  50% (2/4)Contando objetos:  75% (3/4)Contando objetos: 100% (4/4)Contando objetos: 100% (4/4), listo.
+Compresión delta usando hasta 4 hilos
+Comprimiendo objetos:  33% (1/3)Comprimiendo objetos:  66% (2/3)Comprimiendo objetos: 100% (3/3)Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos:  33% (1/3)Escribiendo objetos:  66% (2/3)Escribiendo objetos: 100% (3/3)Escribiendo objetos: 100% (3/3), 16.06 KiB | 913.00 KiB/s, listo.
+Total 3 (delta 1), reusados 0 (delta 0), pack-reusados 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:alemil01/Programacion-Paralela.git
+   50d50c3..82d570a  main -> main
+[?2004h]0;alex@alex-VirtualBox: ~/Programacion-Paralela[01;32malex@alex-V
