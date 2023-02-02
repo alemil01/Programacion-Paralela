@@ -1,5 +1,5 @@
 from time import sleep
-form random import random
+from random import random
 
 from multiprocessing import Process
 
