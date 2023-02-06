@@ -13,7 +13,7 @@ def f():
 def g() :
     print ("adios")
 
-if __name__ == "main":
+if __name__ == "__main__":
     N = 3
     lp = []
     for i in range(N):
